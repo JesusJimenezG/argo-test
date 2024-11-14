@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "https://raw.githubusercontent.com/apache/camel/camel-3.x/dsl/camel-yaml-dsl/camel-yaml-dsl/src/generated/resources/schema/camel-yaml-dsl.json": "file:///Users/jesusjimenezg/projects/argo-test/mapping-integration-chart/templates/mapping-integration.yaml"
+    }
+}
